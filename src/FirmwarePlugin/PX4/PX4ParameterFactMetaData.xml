@@ -7572,7 +7572,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
@@ -7593,7 +7593,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
@@ -7614,7 +7614,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
@@ -7635,7 +7635,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
@@ -7656,7 +7656,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
@@ -7677,7 +7677,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="-1">Unassigned</value>
         <value code="4">Hold</value>
         <value code="7">Offboard</value>
-        <value code="6">Acro</value>
+        <value code="6">Transition ftero</value>
         <value code="9">Rattitude</value>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
