@@ -48,7 +48,7 @@ const char* PX4FirmwarePlugin::offboardFlightMode =     "Offboard";
 const char* PX4FirmwarePlugin::stabilizedFlightMode =   "Stabilized";
 const char* PX4FirmwarePlugin::rattitudeFlightMode =    "Rattitude";
 const char* PX4FirmwarePlugin::followMeFlightMode =     "Follow Me";
-const char* PX4FirmwarePlugin::transitionfteroFlightMode= "Transitionftero";
+const char* PX4FirmwarePlugin::transitionfteroFlightMode= "Transition ftero";
 
 const char* PX4FirmwarePlugin::rtgsFlightMode =         "Return to Groundstation";
 
@@ -64,7 +64,7 @@ static const struct Modes2Name rgModes2Name[] = {
     { PX4_CUSTOM_MAIN_MODE_RATTITUDE,   0,                                      PX4FirmwarePlugin::rattitudeFlightMode,     true,   false,  true },
     { PX4_CUSTOM_MAIN_MODE_ALTCTL,      0,                                      PX4FirmwarePlugin::altCtlFlightMode,        true,   true,   true },
     { PX4_CUSTOM_MAIN_MODE_POSCTL,      0,                                      PX4FirmwarePlugin::posCtlFlightMode,        true,   true,   true },
-    {PX4_CUSTOM_MAIN_MODE_TRANSITION,   0,                                      PX4FirmwarePlugin::transitionfteroFlightMode, true, true,   true },
+    { PX4_CUSTOM_MAIN_MODE_TRANSITION_FTERO,   0,                               PX4FirmwarePlugin::transitionfteroFlightMode, true, true,   true },
     { PX4_CUSTOM_MAIN_MODE_AUTO,        PX4_CUSTOM_SUB_MODE_AUTO_LOITER,        PX4FirmwarePlugin::holdFlightMode,          true,   true,   true },
     { PX4_CUSTOM_MAIN_MODE_AUTO,        PX4_CUSTOM_SUB_MODE_AUTO_MISSION,       PX4FirmwarePlugin::missionFlightMode,       true,   true,   true },
     { PX4_CUSTOM_MAIN_MODE_AUTO,        PX4_CUSTOM_SUB_MODE_AUTO_RTL,           PX4FirmwarePlugin::rtlFlightMode,           true,   true,   true },
