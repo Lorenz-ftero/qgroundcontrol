@@ -80,6 +80,7 @@ public:
     static const char* rtgsFlightMode;
     static const char* followMeFlightMode;
     static const char* transitionfteroFlightMode;
+    static const char* tractionfteroFlightMode;
 
 private:
     void _handleAutopilotVersion(Vehicle* vehicle, mavlink_message_t* message);

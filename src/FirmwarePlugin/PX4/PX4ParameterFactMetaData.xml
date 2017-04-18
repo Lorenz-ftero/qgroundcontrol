@@ -7577,6 +7577,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="-1" name="COM_FLTMODE2" type="INT32">
@@ -7599,6 +7600,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="-1" name="COM_FLTMODE3" type="INT32">
@@ -7621,6 +7623,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="-1" name="COM_FLTMODE4" type="INT32">
@@ -7643,6 +7646,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="-1" name="COM_FLTMODE5" type="INT32">
@@ -7665,6 +7669,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="-1" name="COM_FLTMODE6" type="INT32">
@@ -7687,6 +7692,7 @@ Maps the change of airspeed error to the acceleration setpoint</short_desc>
         <value code="5">Return</value>
         <value code="8">Stabilized</value>
         <value code="13">Transition ftero</value>
+	<value code="14">Traction ftero</value>
       </values>
     </parameter>
     <parameter default="0.1" name="EXFW_HDNG_P" type="FLOAT">
